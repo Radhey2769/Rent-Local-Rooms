@@ -1,0 +1,45 @@
+.login-bg{
+    background-image: linear-gradient( 0deg, #000000ae, #000000ae ), url('https://assets-global.website-files.com/637ac7502ecc7e25ee8a2510/63a0d03534a2ff166a046cda_Frame-5-min.svg');
+     border-radius: 2px solid blue;
+     border-color: blue;
+}
+
+.signup-bg{
+    background-image: linear-gradient( 0deg, #000000ae, #000000ae ), url('https://assets-global.website-files.com/61e19be21795b377222d0245/6255ede8c2bbb67d4d4e3dda_How%20Does%20Rent%20to%20Own%20Work_Blog%20Large%20Thumbnail.png');
+    
+}
+.addRent-bg{
+    background-image: linear-gradient(0deg,  #000000ae, #000000ae  ), url('https://roomrentjaipur.com/wp-content/uploads/2021/09/3_room.jpg')
+}
+
+.New-design{
+    border-color: blue;
+}
+.home-bg{
+    background-image:
+}
+.nav-item{
+    border: 5px;
+}
+.title{
+    font-weight: bold;
+    
+}
+
+.room-img{
+    height: 700px;
+    object-fit: cover;
+
+}
+
+.roomdetails{
+    background-image: url(https://images.pexels.com/photos/7746549/pexels-photo-7746549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+}
+
+.BrowseRooms{
+    background-image:url(https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_548/at%2Fhouse%20tours%2F2021-01%2FHouse%20calls%2F46350055_balfour_bedroom)
+}
+.my-img{
+    height: 300px;
+    object-fit: cover;
+}
